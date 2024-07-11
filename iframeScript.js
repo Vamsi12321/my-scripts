@@ -1,5 +1,5 @@
 // script2.js
-document.addEventListener("DOMContentLoaded", function () {
+
   console.log("Hello from script2.js");
 
   // Find the existing element by its ID
@@ -17,4 +17,4 @@ document.addEventListener("DOMContentLoaded", function () {
   } else {
     console.error('Element with id "div-proxzar-getresp" not found.');
   }
-});
+
