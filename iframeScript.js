@@ -8,6 +8,7 @@
   if (targetDiv) {
     // Create an iframe element
     var iframe = document.createElement("iframe");
+    iframe.setAttribute("id","myIframe")
     iframe.src = "https://vamsi12321.github.io/iframeHtml/index.html"; // Replace with your iframe source URL
     iframe.width = "600";
     iframe.height = "400";
