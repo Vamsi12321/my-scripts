@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (targetDiv) {
     // Create an iframe element
     var iframe = document.createElement("iframe");
-    iframe.src = "https://example.com"; // Replace with your iframe source URL
+    iframe.src = "https://vamsi12321.github.io/my-scripts/index.html"; // Replace with your iframe source URL
     iframe.width = "600";
     iframe.height = "400";
 
