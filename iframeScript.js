@@ -10,7 +10,7 @@
     var iframe = document.createElement("iframe");
     iframe.setAttribute("id","myIframe")
     iframe.src = "https://vamsi12321.github.io/iframeHtml/index.html"; // Replace with your iframe source URL
-    iframe.width = "600";
+    iframe.width = "100%";
     iframe.height = "400";
 
     // Append the iframe element to the targetDiv
