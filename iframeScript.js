@@ -16,7 +16,8 @@
 
     // Append the iframe element to the targetDiv
     targetDiv.appendChild(iframe);
-      )
+    }
+    )
     
   } else {
     console.error('Element with id "div-proxzar-getresp" not found.');
