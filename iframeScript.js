@@ -7,7 +7,7 @@
 
   if (targetDiv) {
     // Create an iframe element
-    window.addEventListener("load",function(){
+    // window.addEventListener("load",function(){
       var iframe = document.createElement("iframe");
     iframe.setAttribute("id","myIframe")
     iframe.src = "https://vamsi12321.github.io/iframeHtml/index.html"; // Replace with your iframe source URL
@@ -16,8 +16,8 @@
 
     // Append the iframe element to the targetDiv
     targetDiv.appendChild(iframe);
-    }
-    )
+    // }
+    // )
     
   } else {
     console.error('Element with id "div-proxzar-getresp" not found.');
